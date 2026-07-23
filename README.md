@@ -10,17 +10,18 @@
 
 - <font color="#FFD700">💻 <b>Foco atual:</b> Desenvolvimento de aplicativos Android nativos com <b>Kotlin</b>.</font>
 - <font color="#FFD700">📡 <b>Especialidades:</b> Conectividade móvel, arquitetura Android, testes e QA.</font>
-- <font color="#FFD700">🏋️‍♂️ <b>Projetos em destaque:</b> Apps para gestão de treinos de academia.</font>
 
 <hr style="border: 1px solid #FFD700;" />
 
 ## <font color="#FFD700">🛠️ Tech Stack & Ferramentas</font>
 
 ### <font color="#FFD700"><b>Linguagens</b></font>
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FFD700&labelColor=000000)
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=FFD700&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFD700&labelColor=000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=000000)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=34A853&labelColor=000000)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=000000)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=000000)
 
 ### <font color="#FFD700"><b>Conectividade & Qualidade</b></font>
 ![Mobile Networks](https://img.shields.io/badge/Mobile_Networks-5G%20%7C%204G%20%7C%203G-FFD700?style=for-the-badge&labelColor=000000&color=000000)
@@ -29,15 +30,6 @@
 
 <hr style="border: 1px solid #FFD700;" />
 
-## <font color="#FFD700">📌 Projetos Principais</font>
-
-<font color="#FFD700">
-
-| Projeto | Descrição | Techs |
-| :--- | :--- | :--- |
-| 🏋️ **Gym Exercise Tracker** | Aplicativo Android para acompanhamento e gestão de treinos de academia. | Kotlin, Jetpack, Clean Arch |
-
-</font>
 
 <hr style="border: 1px solid #FFD700;" />
 
